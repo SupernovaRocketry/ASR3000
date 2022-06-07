@@ -34,4 +34,5 @@ void app_main() {
     // Indicação que a task foi criada
     printf("Task do blink LED foi criada!\n");
 
+
 }
